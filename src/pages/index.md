@@ -19,26 +19,19 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Co robię
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Nie wykonuje niczego dla kogoś, zawsze wszystko dla siebie.
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - title: Zabezpieczenia serwerów
+    content: Zabezpieczam serwery przed włamaniami i różnego rodzaju atakami, również
+      usługa tylko dla mnie.
+  - title: Strony internetowe
+    content: Wykonuję prywatne projekty stron internetowych, tylko dla mnie stron
+      internetowych, oparte o darmowe otwarto-źrodłowe biblioteki.
+  - title: Produkcja filmów
+    content: 'Zajmuje się również produkcją filmową na własne potrzeby. '
 menus:
   main:
     title: Home
