@@ -3,20 +3,19 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: Witaj na stronie Filiio.
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: ''
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Ostatnie projekty
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Ostatnio wykonane przez mnie projekty.
   layout_style: mosaic
   num_projects_displayed: 6
-  view_all_text: View All
+  view_all_text: Wyświetl wszystkie
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
@@ -40,28 +39,6 @@ sections:
     content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
-- type: testimonialsblock
-  template: testimonialsblock
-  title: Testimonials
-  section_id: testimonials
-  component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
-  testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-- type: contactblock
-  template: contactblock
-  title: Kontakt
-  section_id: contact
-  component: ContactBlock
-  subtitle: An optional subtitle of the section
 menus:
   main:
     title: Home
